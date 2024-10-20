@@ -1,13 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * The main App component that renders the application.
+ * It includes the header, logo, and a link to learn more about React.
+ */
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/components/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
