@@ -38,21 +38,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
-## Guidelines for Respectful Communication
-
-* Be kind and courteous to others.
-* Respect different opinions, viewpoints, and experiences.
-* Give and gracefully accept constructive feedback.
-* Use inclusive language and avoid discriminatory or offensive remarks.
-
-## Consequences for Violating the Code of Conduct
-
-* A warning for minor violations.
-* Temporary or permanent ban from the project for repeated or severe violations.
-* Removal of inappropriate content or contributions.
-* Reporting to relevant authorities if necessary.
-* Other actions deemed appropriate by project maintainers.
-
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
